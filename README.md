@@ -1,4 +1,4 @@
-# Quick Start: Java, Spring Boot & MongoDB Template
+# Quick Start: Java, Spring Boot & MongoDB Templates
 
 ## Blog Post
 
